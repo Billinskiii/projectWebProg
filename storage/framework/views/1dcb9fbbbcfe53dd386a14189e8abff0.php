@@ -43,10 +43,10 @@
               <a class="nav-link" href="<?php echo e(url('/dashboard/tasks')); ?>">Tasks</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="<?php echo e(url('/')); ?>">My Account</a>
+              <a class="nav-link" href="<?php echo e(url('/dashboard/myaccount')); ?>">My Account</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="<?php echo e(url('/')); ?>">About Us</a>
+              <a class="nav-link active" href="<?php echo e(url('/dashboard/aboutus')); ?>">About Us</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo e(url('/')); ?>">Log Out</a>

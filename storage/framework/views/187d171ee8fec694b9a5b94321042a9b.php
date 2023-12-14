@@ -1,0 +1,1 @@
+<?php /**PATH /Users/novan/Documents/XAMPP/xamppfiles/htdocs/WebProg/Project/resources/views/navbar.blade.php ENDPATH**/ ?>

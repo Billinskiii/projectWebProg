@@ -43,10 +43,10 @@
               <a class="nav-link" href="{{url('/dashboard/tasks')}}">Tasks</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{url('/')}}">My Account</a>
+              <a class="nav-link" href="{{url('/dashboard/myaccount')}}">My Account</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="{{url('/')}}">About Us</a>
+              <a class="nav-link active" href="{{url('/dashboard/aboutus')}}">About Us</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{url('/')}}">Log Out</a>

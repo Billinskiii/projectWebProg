@@ -26,6 +26,10 @@
             font-size: 25px;
         }
 
+        .myaccount{
+          border-radius: 1rem;
+        }
+
     </style>
     
     <title>MYTODOLIST - My Account</title>
@@ -55,5 +59,13 @@
         </div>
       </nav>
     </header>
+    <div class="container-fluid myaccount bg-primary" style="max-width : 80%; margin-top: 7%; height: 500px">
+        <div class="row">
+        <h1>Profile</h1>
+        <div class="container-fluid information bg-light">
+          <p>Nama</p>
+        </div>
+      </div>
+    </div>
   </body>
 </html><?php /**PATH /Users/novan/Documents/XAMPP/xamppfiles/htdocs/WebProg/Project/resources/views/myaccount.blade.php ENDPATH**/ ?>
